@@ -1,0 +1,20 @@
+CINEMA DIGITAL FORENSICS - FICTIONAL TRAINING CASE
+
+Case ID: CIN-DF-2026-01
+Case title: Investigation of Repeated Cinema Reservations Without Successful Payment
+Evidence date: 12 November 2026
+Timezone: Asia/Amman (UTC+03:00)
+
+Background:
+Cinema management reported that multiple seats for one screening appeared reserved under different customer names, while the corresponding payment records did not show successful payments.
+
+Investigative questions:
+1. Were multiple reservations created for the same screening without successful payment?
+2. Do the records show common technical indicators linking those reservations?
+3. Is there a legitimate paid booking in the same evidence set for comparison?
+
+Scope:
+Review only the supplied fictional reservation, payment, application audit, web access, and seat-status records. No real cinema system, account, person, or payment service was accessed.
+
+Important limitation:
+A shared IP address or device identifier is an investigative lead, not proof of a person's identity or intent. The records support a pattern of repeated unpaid reservations, but do not identify who operated the device or establish motive.

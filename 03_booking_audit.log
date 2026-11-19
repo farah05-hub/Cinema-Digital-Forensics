@@ -1,0 +1,11 @@
+# FICTIONAL TRAINING DATA - application audit trail
+2026-11-12T18:02:11+03:00 event=BOOKING_CREATED booking=BK-2101 user=guest-501 device=DEV-77A session=SESS-A91 source=198.51.100.24
+2026-11-12T18:04:39+03:00 event=BOOKING_CREATED booking=BK-2102 user=guest-502 device=DEV-77A session=SESS-A92 source=198.51.100.24
+2026-11-12T18:07:05+03:00 event=BOOKING_CREATED booking=BK-2103 user=guest-503 device=DEV-77A session=SESS-A93 source=198.51.100.24
+2026-11-12T18:11:42+03:00 event=BOOKING_CREATED booking=BK-2104 user=guest-504 device=DEV-77A session=SESS-A94 source=198.51.100.24
+2026-11-12T18:15:18+03:00 event=BOOKING_CREATED booking=BK-2105 user=guest-505 device=DEV-77A session=SESS-A95 source=198.51.100.24
+2026-11-12T18:18:56+03:00 event=BOOKING_CREATED booking=BK-2106 user=guest-506 device=DEV-77A session=SESS-A96 source=198.51.100.24
+2026-11-12T18:22:31+03:00 event=BOOKING_CREATED booking=BK-2107 user=guest-507 device=DEV-77A session=SESS-A97 source=198.51.100.24
+2026-11-12T18:26:04+03:00 event=BOOKING_CREATED booking=BK-2108 user=guest-508 device=DEV-77A session=SESS-A98 source=198.51.100.24
+2026-11-12T18:30:10+03:00 event=BOOKING_CREATED booking=BK-2109 user=guest-599 device=DEV-19B session=SESS-B11 source=203.0.113.55
+2026-11-12T18:30:17+03:00 event=PAYMENT_CONFIRMED booking=BK-2109 transaction=TX-9009

@@ -1,0 +1,10 @@
+# FICTIONAL TRAINING DATA - web server access log
+198.51.100.24 - - [12/Nov/2026:18:02:11 +0300] "POST /api/bookings HTTP/1.1" 201 412
+198.51.100.24 - - [12/Nov/2026:18:04:39 +0300] "POST /api/bookings HTTP/1.1" 201 414
+198.51.100.24 - - [12/Nov/2026:18:07:05 +0300] "POST /api/bookings HTTP/1.1" 201 413
+198.51.100.24 - - [12/Nov/2026:18:11:42 +0300] "POST /api/bookings HTTP/1.1" 201 415
+198.51.100.24 - - [12/Nov/2026:18:15:18 +0300] "POST /api/bookings HTTP/1.1" 201 413
+198.51.100.24 - - [12/Nov/2026:18:18:56 +0300] "POST /api/bookings HTTP/1.1" 201 414
+198.51.100.24 - - [12/Nov/2026:18:22:31 +0300] "POST /api/bookings HTTP/1.1" 201 412
+198.51.100.24 - - [12/Nov/2026:18:26:04 +0300] "POST /api/bookings HTTP/1.1" 201 415
+203.0.113.55 - - [12/Nov/2026:18:30:10 +0300] "POST /api/bookings HTTP/1.1" 201 410

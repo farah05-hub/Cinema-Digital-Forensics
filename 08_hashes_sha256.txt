@@ -1,0 +1,12 @@
+SHA-256 EVIDENCE HASH MANIFEST
+Algorithm: SHA-256
+Generated: 2026-11-19 15:30:00 Asia/Amman (UTC+03:00)
+Note: Hashes apply to the six primary evidence files and the chain-of-custody log.
+0afb2240d7b5b34eaa9b4a509cd9a7537ff270ba6a4f1ee476221dd9814ee58d  01_reservations.csv
+a0176afa464ad76c98098c4f439d3d4df0ed5f1d60e343026f6ad2c0483376be  02_payment_gateway.log
+5c8dc0f38b64b66fd7bb64d4d5f40235457192e8a6ac129219885987a783f28e  03_booking_audit.log
+fa39d57ca73d8d7e72ebba54eeb93d019114a488e1130cf84600d7a382721f23  04_web_access.log
+1a952c0b01c07ad466fb5dc400b636ef3cb7c2790001a86cc8d03415ceed405a  05_seat_status.csv
+51d3069ec0cf410e2d66e8ad11941d0763cf007e739458a19e1eb87e0ed0914a  06_case_scope.txt
+9b115cafb615b07413b37466eedfae0b293e2e2b250b4ba89a0fa47541e521c3  07_chain_of_custody.csv
+9b115cafb615b07413b37466eedfae0b293e2e2b250b4ba89a0fa47541e521c3  07_chain_of_custody.csv

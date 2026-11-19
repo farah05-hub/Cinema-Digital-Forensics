@@ -1,0 +1,8 @@
+evidence_id,evidence_name,source,collection_time_jordan,timezone,collected_by,purpose,handling,,,,,
+E-01,01_reservations.csv,Fictional cinema booking export,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Preserve reservation records,Original training file preserved read-only; analysis performed on working copy,,,,,
+E-02,02_payment_gateway.log,Fictional payment gateway export,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Verify payment outcomes,Original training file preserved read-only; analysis performed on working copy,,,,,
+E-03,03_booking_audit.log,Fictional application audit export,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Correlate booking creation events,Original training file preserved read-only; analysis performed on working copy,,,,,
+E-04,04_web_access.log,Fictional web server access log,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Review booking requests and source indicators,Original training file preserved read-only; analysis performed on working copy,,,,,
+E-05,05_seat_status.csv,Fictional seat inventory export,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Verify seat reservation states,Original training file preserved read-only; analysis performed on working copy,,,,,
+E-06,06_case_scope.txt,Fictional case description,19/11/2026 15:30,Asia/Amman UTC+03:00,Student Investigator,Define scope and limitations,Original training file preserved read-only; analysis performed on working copy,,,,,
+,,,,,,,,,,,,
